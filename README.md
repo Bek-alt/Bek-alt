@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Armanbyek 👋
 
-<!--
-**Bek-alt/Bek-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Mathematics student in Budapest • Interested in Software Engineering + Data  
+Building projects in Python/C++ • Learning Web Dev (JS/TypeScript)
 
-Here are some ideas to get you started:
+## 🔧 Tech
+- Python, C++, SQL
+- Git, Docker, Linux
+- pandas, NumPy (projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Transfer Tracker (Web App)** – REST API + simple UI (link)
+- **FinBench Risk Benchmark Pipeline** – ETL + models + evaluation (link)
+- **S&P 500 Predictor** – features + training + reporting (link)
+
+## 📫 Contact
+- LinkedIn: (link)
+- Email: soltanarman88@gmail.com
