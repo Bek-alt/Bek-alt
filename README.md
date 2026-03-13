@@ -9,7 +9,6 @@ Building projects in Python/C++ • Learning Web Dev (JS/TypeScript)
 - pandas, NumPy (projects)
 
 ## 🚀 Projects
-- **Transfer Tracker (Web App)** – REST API + simple UI (link)
 - **FinBench Risk Benchmark Pipeline** – ETL + models + evaluation (link)
 - **S&P 500 Predictor** – features + training + reporting (link)
 
