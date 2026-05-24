@@ -8,10 +8,6 @@ Building projects in Python/C++ • Learning Web Dev (JS/TypeScript)
 - Git, Docker, Linux
 - pandas, NumPy (projects)
 
-## 🚀 Projects
-- **FinBench Risk Benchmark Pipeline** – ETL + models + evaluation (link)
-- **S&P 500 Predictor** – features + training + reporting (link)
 
 ## 📫 Contact
-- LinkedIn: (link)
 - Email: soltanarman88@gmail.com
