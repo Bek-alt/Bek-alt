@@ -35,4 +35,3 @@ Analyzed earnings call transcripts using financial sentiment dictionaries and te
 ## 📫 Contact
 
 - Email: soltanarman88@gmail.com
-- GitHub: [@soltanarman88](https://github.com/soltanarman88)
